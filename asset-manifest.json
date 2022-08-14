@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d0cb03e.css",
-    "main.js": "/static/js/main.b129edd4.js",
+    "main.css": "/sentences-training-serve/static/css/main.4d0cb03e.css",
+    "main.js": "/sentences-training-serve/static/js/main.b129edd4.js",
     "index.html": "/index.html",
-    "main.4d0cb03e.css.map": "/static/css/main.4d0cb03e.css.map",
-    "main.b129edd4.js.map": "/static/js/main.b129edd4.js.map"
+    "main.4d0cb03e.css.map": "/sentences-training-serve/static/css/main.4d0cb03e.css.map",
+    "main.b129edd4.js.map": "/sentences-training-serve/static/js/main.b129edd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d0cb03e.css",
-    "static/js/main.b129edd4.js"
+    "sentences-training-serve/static/css/main.4d0cb03e.css",
+    "sentences-training-serve/static/js/main.b129edd4.js"
   ]
 }
